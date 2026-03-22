@@ -62,10 +62,3 @@ My approach is a true hybrid: I am just as passionate about architecting scalabl
 ➡️ **[Read more on zura.id.vn](https://zura.id.vn/blog)**
 
 ---
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zura1555&show_icons=true&theme=radical&hide_border=true" alt="Zura's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zura1555&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
-</div>
