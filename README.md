@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi there, I'm Zura! 👋</h1>
-  <h3>AI & Digital Transformation Executive| E-commerce Innovator</h3>
+  <h3>AI & Digital Transformation Executive | E-commerce Innovator</h3>
   <p>Bridging the gap between hardcore software engineering and high-impact project management in the fashion retail space.</p>
 </div>
 
@@ -59,5 +59,3 @@ My approach is a true hybrid: I am just as passionate about architecting scalabl
 ## 📝 Latest from the Blog
 
 ➡️ **[Read more on zura.id.vn](https://zura.id.vn/blog)**
-
----
