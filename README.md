@@ -34,17 +34,25 @@ My approach is a true hybrid: I am just as passionate about architecting scalabl
 
 ## 💡 Featured Projects
 
-### 🛍️ [Haravan MCP Server](#link-to-repo)
-**Tech:** `TypeScript`, `Cloudflare Workers`, `Bun`, `Hono`, `MCP`
-A Model Context Protocol (MCP) server built to bridge Haravan's API with AI Agents (Claude Desktop, Cursor, OpenCode). Created specifically to empower internal SEO and operational teams, allowing them to manage blogs, products, and redirects through natural language conversations. Supports multi-shop token mapping via SSE transport.
-
-### 🤖 [Scale-Level GBP AI Automation](#link-to-repo)
-**Tech:** `n8n`, `AI Agents`, `Google Business API`
-An automated workflow managing over 200 Google Business Profiles across Vietnam and Cambodia. The system uses an n8n orchestration layer to trigger AI agents that read, analyze, and intelligently reply to positive customer reviews at scale, maintaining high brand engagement.
-
-### 🏗️ [Open-Source Sanity Starter](#link-to-repo)
-**Tech:** `Sanity Content Lake`, `React`
-A robust, production-ready template for new Sanity users. Goes beyond the official starters by pre-integrating essential plugins for advanced SEO optimization and extended image store support (ImageKit, Cloudinary), which I use in my daily development.
+<table width="100%">
+  <tr>
+    <td width="33.3%" valign="top">
+      <h3>🛍️ <a href="#link-to-repo">Haravan MCP Server</a></h3>
+      <p><b>Tech:</b> <code>TypeScript</code>, <code>Cloudflare Workers</code>, <code>Bun</code>, <code>Hono</code>, <code>MCP</code></p>
+      <p>A Model Context Protocol (MCP) server built to bridge Haravan's API with AI Agents (Claude Desktop, Cursor, OpenCode). Created specifically to empower internal SEO and operational teams, allowing them to manage blogs, products, and redirects through natural language conversations. Supports multi-shop token mapping via SSE transport.</p>
+    </td>
+    <td width="33.3%" valign="top">
+      <h3>🤖 <a href="#link-to-repo">Scale-Level GBP AI</a></h3>
+      <p><b>Tech:</b> <code>n8n</code>, <code>AI Agents</code>, <code>Google Business API</code></p>
+      <p>An automated workflow managing over 200 Google Business Profiles across Vietnam and Cambodia. The system uses an n8n orchestration layer to trigger AI agents that read, analyze, and intelligently reply to positive customer reviews at scale, maintaining high brand engagement.</p>
+    </td>
+    <td width="33.3%" valign="top">
+      <h3>🏗️ <a href="#link-to-repo">Sanity Starter</a></h3>
+      <p><b>Tech:</b> <code>Sanity Content Lake</code>, <code>React</code></p>
+      <p>A robust, production-ready template for new Sanity users. Goes beyond the official starters by pre-integrating essential plugins for advanced SEO optimization and extended image store support (ImageKit, Cloudinary), which I use in my daily development.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
