@@ -58,4 +58,7 @@ My approach is a true hybrid: I am just as passionate about architecting scalabl
 
 ## 📝 Latest from the Blog
 
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ➡️ **[Read more on zura.id.vn](https://zura.id.vn/blog)**
