@@ -1,0 +1,22 @@
+name: Latest blog post workflow
+on:
+  schedule:
+    # Runs automatically every 12 hours
+    - cron: '0 */12 * * *'
+  workflow_dispatch: # Allows you to manually trigger the run
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Pull in zura.id.vn posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          # This points to your blog's RSS feed. 
+          feed_list: "https://zura.id.vn/rss.xml"
