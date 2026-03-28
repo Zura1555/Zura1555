@@ -62,8 +62,8 @@ My approach is a true hybrid: I am just as passionate about architecting scalabl
 - [How Oh-My-Opencode becomes my daily go-to for AI Coding Agent?](https://zura.id.vn/blog/how-oh-my-opencode-becomes-my-daily-go-to-for-ai-coding-agent)
 - [Docker MCP: Breaking Down the Two Walls Holding Your AI Agents Back](https://zura.id.vn/blog/docker-mcp-ai-context-limitations)
 - [Ad-Supported AI Agents: OpenAI, Amp Free &amp; Giga Dev Rise](https://zura.id.vn/blog/ads-in-ai-agents)
+- [How I Built Haravan MCP Server](https://zura.id.vn/blog/how-i-built-haravan-mcp-server)
 - [How I become a Product Owner with 0XP?](https://zura.id.vn/blog/0-experience-PO)
-- [Calculated field in Directus](https://zura.id.vn/blog/calculated-field-in-Directus)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ **[Read more on zura.id.vn](https://zura.id.vn/blog)**
