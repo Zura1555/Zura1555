@@ -2,22 +2,31 @@
 
 *Technology, retail, and the space between.*
 
-I'm Zura, an e-commerce technology leader working where software, operations, and customer experience meet. At **Maison Retail Management International**, I combine hands-on engineering with product and project delivery to make new technology useful in retail teams' day-to-day work.
-
-**200+ Google Business Profiles** · **Vietnam & Cambodia** · **Employee of the Year within my first six months in IT & AI**
+I'm Zura, an e-commerce technology leader at **Maison Retail Management International**, where I combine hands-on engineering with product and project delivery. I'm also part of the founding team at [Flowcenter](https://flowcenter.vn), building software for education centers.
 
 ## Recent work
 
-- **Haravan MCP Server** — Connects Haravan stores to AI assistants for managing blogs, products, and redirects with natural language.
-- **Review workflows at scale** — AI-supported review management for 200+ Google Business Profiles across Vietnam and Cambodia.
-- **Sanity starter** — A Sanity + React starter with SEO and image-hosting integrations.
+- **Retail audit platform** — Building an internal tool for route planning, evidence-backed store audits, scoring, and action tracking—the same problem space served by public retail-execution SaaS such as [Repsly](https://www.repsly.com/).
+- **[WhatBin — Sanity Hackathon Challenge](https://github.com/Zura1555/whatbin)** — Source-backed disposal guidance for Hanoi and Ho Chi Minh City. Residents describe or photograph supported items, confirm the match, and get current local rules; AI explains sources but never chooses the disposal action.
+- **[Flowcenter](https://flowcenter.vn)** — An operations platform for education centers, connecting leads, classes, attendance, student progress, tuition, payroll, and parent communication, with AI-assisted teaching tools.
 
 ## Currently exploring
 
-AI coding agents, open-weight models, MCP, and becoming a stronger product leader.
+I’m exploring new ways of working with AI: coordinating agents through a chief-of-staff model, and asking how AI can make the work itself more joyful—not just faster. I’m drawn to the human side of orchestration: how thoughtful delegation can leave more room for judgment, curiosity, and creative work.
+
+## Contribution graph
+
+Quiet here from May through September? I was working from a company account. My commits went undercover; the green squares couldn't blow their cover.
 
 ## Writing
 
-[How Oh-My-Opencode becomes my daily go-to for AI Coding Agent?](https://zura.id.vn/blog/how-oh-my-opencode-becomes-my-daily-go-to-for-ai-coding-agent) · [Docker MCP: Breaking Down the Two Walls Holding Your AI Agents Back](https://zura.id.vn/blog/docker-mcp-ai-context-limitations) · [How I Built Haravan MCP Server](https://zura.id.vn/blog/how-i-built-haravan-mcp-server)
+Here are a few things I've written:
 
-[More at zura.id.vn](https://zura.id.vn/blog)
+- [How Oh-My-Opencode becomes my daily go-to for AI Coding Agent?](https://zura.tr/blog/how-oh-my-opencode-becomes-my-daily-go-to-for-ai-coding-agent)
+- [Docker MCP: Breaking Down the Two Walls Holding Your AI Agents Back](https://zura.tr/blog/docker-mcp-ai-context-limitations)
+- [Ad-Supported AI Agents: OpenAI, Amp Free & Giga Dev Rise](https://zura.tr/blog/ads-in-ai-agents)
+- [How I Built Haravan MCP Server](https://zura.tr/blog/how-i-built-haravan-mcp-server)
+- [How I become a Product Owner with 0XP?](https://zura.tr/blog/0-experience-PO)
+- [Calculated field in Directus](https://zura.tr/blog/calculated-field-in-Directus)
+
+[More writing at zura.tr](https://zura.tr/blog)
