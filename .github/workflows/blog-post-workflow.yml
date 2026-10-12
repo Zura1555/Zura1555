@@ -9,7 +9,7 @@ permissions:
 
 # Fixes the Node warning
 env:
-  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true 
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
 jobs:
   update-readme-with-blog:
@@ -18,7 +18,7 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-      - name: Pull in zura.id.vn posts
+      - name: Pull in zura.tr posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://zura.id.vn/rss.xml"
+          feed_list: "https://zura.tr/rss.xml"
