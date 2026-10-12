@@ -14,10 +14,6 @@ I'm Zura, an e-commerce technology leader at **Maison Retail Management Internat
 
 I’m exploring new ways of working with AI: coordinating agents through a chief-of-staff model, and asking how AI can make the work itself more joyful—not just faster. I’m drawn to the human side of orchestration: how thoughtful delegation can leave more room for judgment, curiosity, and creative work.
 
-## Contribution graph
-
-Quiet here from May through September? I was working from a company account. My commits went undercover; the green squares couldn't blow their cover.
-
 ## Writing
 
 Here are a few things I've written:
